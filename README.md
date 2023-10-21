@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I use Arch btw.**
 
+<a href="https://app.daily.dev/cyancipher"><img src="https://api.daily.dev/devcards/80fb7bfe75404990b6f17106b060bd07.png?r=qq4" width="400" alt="Cyan Cipher's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sudhans16938904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhans16938904" height="30" width="40" /></a>
