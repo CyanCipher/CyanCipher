@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyan Cipher</h1>
 <p align="left"> <a href="https://twitter.com/sudhans16938904" target="blank"><img src="https://img.shields.io/twitter/follow/sudhans16938904?logo=twitter&style=for-the-badge" alt="sudhans16938904" /></a> </p>
 
-- 🔭 I’m currently working on **Typist**
+- 🔭 I’m currently working on **Code League**
 
 - 🌱 I’m currently learning **MERN Stack and Rust**
 
